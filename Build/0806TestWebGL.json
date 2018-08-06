@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"dataUrl": "0806TestWebGL.data.unityweb",
+"asmCodeUrl": "0806TestWebGL.asm.code.unityweb",
+"asmMemoryUrl": "0806TestWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "0806TestWebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
